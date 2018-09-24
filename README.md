@@ -20,5 +20,5 @@ APIAI_SESSION_ID=some_unique_session_id
 Hoặc deploy lên Heroku server và sử dụng.
 Đơn giản hơn sử dụng nút Deploy dưới đây để deploy app tới Heroku server. Bạn chỉ cần điền API key và session ID khi deploy mà ko cần tạo file `.env`.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/niudo2014/chatbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/niudo2014/botGroup8)
 
